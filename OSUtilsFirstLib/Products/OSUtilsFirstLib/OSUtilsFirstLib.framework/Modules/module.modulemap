@@ -1,0 +1,6 @@
+framework module OSUtilsFirstLib {
+  umbrella header "OSUtilsFirstLib.h"
+
+  export *
+  module * { export * }
+}

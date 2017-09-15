@@ -1,0 +1,49 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/occ/Desktop/\u7EC4\u4EF6\u5316/\u79C1\u6709\u5E932/OSUtilsFirstLib/build/Build/Products/Release-iphoneos/OSUtilsFirstLib.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "OSUtilsFirstLib-Swift.h",
+          'external-contents': "/Users/occ/Desktop/\u7EC4\u4EF6\u5316/\u79C1\u6709\u5E932/OSUtilsFirstLib/build/Build/Products/Release-iphoneos/OSUtilsFirstLib.framework/Headers/OSUtilsFirstLib-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSUtilsFirstLib.h",
+          'external-contents': "/Users/occ/Desktop/\u7EC4\u4EF6\u5316/\u79C1\u6709\u5E932/OSUtilsFirstLib/OSUtilsFirstLib/OSUtilsFirstLib.h"
+        },
+        {
+          'type': 'file',
+          'name': "YONetwork.h",
+          'external-contents': "/Users/occ/Desktop/\u7EC4\u4EF6\u5316/\u79C1\u6709\u5E932/OSUtilsFirstLib/OSUtilsFirstLib/YONetwork.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/occ/Desktop/\u7EC4\u4EF6\u5316/\u79C1\u6709\u5E932/OSUtilsFirstLib/build/Build/Products/Release-iphoneos/OSUtilsFirstLib.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/occ/Desktop/\u7EC4\u4EF6\u5316/\u79C1\u6709\u5E932/OSUtilsFirstLib/build/Build/Intermediates/OSUtilsFirstLib.build/Release-iphoneos/OSUtilsFirstLib.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/occ/Desktop/\u7EC4\u4EF6\u5316/\u79C1\u6709\u5E932/OSUtilsFirstLib/build/Build/Products/Release-iphoneos/OSUtilsFirstLib.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AdvModel.h",
+          'external-contents': "/Users/occ/Desktop/\u7EC4\u4EF6\u5316/\u79C1\u6709\u5E932/OSUtilsFirstLib/OSUtilsFirstLib/AdvModel.h"
+        }
+      ]
+    }
+  ]
+}
